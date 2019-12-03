@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/acciondigital-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/acciondigital-react/static/js/main.b15aa4d3.chunk.js",
+    "main.js.map": "/acciondigital-react/static/js/main.b15aa4d3.chunk.js.map",
+    "runtime~main.js": "/acciondigital-react/static/js/runtime~main.87e64a07.js",
+    "runtime~main.js.map": "/acciondigital-react/static/js/runtime~main.87e64a07.js.map",
+    "static/js/2.f6711c6e.chunk.js": "/acciondigital-react/static/js/2.f6711c6e.chunk.js",
+    "static/js/2.f6711c6e.chunk.js.map": "/acciondigital-react/static/js/2.f6711c6e.chunk.js.map",
+    "index.html": "/acciondigital-react/index.html",
+    "precache-manifest.50f20a1ae99973cbffff29b7f082bc0b.js": "/acciondigital-react/precache-manifest.50f20a1ae99973cbffff29b7f082bc0b.js",
+    "service-worker.js": "/acciondigital-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/acciondigital-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/acciondigital-react/static/media/logo.5d5d9eef.svg"
+  }
+}
