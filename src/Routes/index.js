@@ -1,9 +1,9 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-import Contacto from '../components/Contacto';
-import Inicio from '../components/Inicio';
-import Faq from '../components/Faq';
-import Amigos from '../components/Amigos';
+import Contacto from '../components/pages/Contacto';
+import Inicio from '../components/pages/Inicio';
+import Faq from '../components/pages/Faq';
+import Amigos from '../components/pages/Amigos';
 
 const Routes = () => (
   <Switch>

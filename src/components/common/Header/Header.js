@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Header as GHeader, Box, Anchor, Nav } from 'grommet';
 import { Home } from 'grommet-icons';
 // import Nav from './Nav';
-import navItems from '../../config/navItems.json'
+import navItems from '../../../config/navItems.json'
 
 const Header = () => (
   <GHeader background="dark-1" pad="medium">
