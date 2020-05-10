@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/inicio",
+    "title": "Inicio",
+    "icon": "home"
+  },
+  {
+    "path": "/amigos",
+    "title": "Amigos",
+    "icon": "users"
+  },
+  {
+    "path": "/contacto",
+    "title": "Contacto",
+    "icon": "envelope"
+  },
+  {
+    "path": "/faq",
+    "title": "Ayuda",
+    "icon": "question-circle"
+  }
+]
