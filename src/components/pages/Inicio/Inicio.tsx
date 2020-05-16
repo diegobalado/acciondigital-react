@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Inicio = () => (
-  <div>Inicio page</div>
+  <div>Inicios page</div>
 );
 
 export default Inicio;
