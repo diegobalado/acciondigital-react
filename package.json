@@ -43,7 +43,10 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.5",
-    "@types/styled-components": "^5.1.0",
+    "@types/styled-components": "^5.1.1",
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
+    "eslint-plugin-react": "^7.20.3",
     "rimraf": "^3.0.2"
   }
 }
