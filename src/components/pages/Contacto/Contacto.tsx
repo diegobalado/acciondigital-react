@@ -1,9 +1,5 @@
 import React from 'react';
-import styled from 'styled-components/macro';
-
-const StyledContacto = styled.div`
-  background: #F00;
-`;
+import { StyledContacto } from './Contacto.styles';
 
 const Contacto = () => (
   <StyledContacto>Contacto page</StyledContacto>

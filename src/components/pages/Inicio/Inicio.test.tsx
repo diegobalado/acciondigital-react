@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import Inicio from './Inicio';
+import Inicio from '.';
 
 test('renders Inicio page', () => {
   const { getByText } = render(<Inicio />);

@@ -1,31 +1,23 @@
-import React from 'react';
-import { Home, Group, MailOption, CircleQuestion } from 'grommet-icons';
-import { PRIMARY } from '../constants/colors';
-
-const IconStyles = {
-  color: PRIMARY,
-}
-
 const config = [
   {
-    "path": "/inicio",
+    "path": "/",
     "title": "Inicio",
-    "icon": <Home {...IconStyles} />
+    "icon": "Home"
   },
   {
     "path": "/amigos",
     "title": "Amigos",
-    "icon": <Group {...IconStyles} />
+    "icon": "Group"
   },
   {
     "path": "/contacto",
     "title": "Contacto",
-    "icon": <MailOption {...IconStyles} />
+    "icon": "MailOption"
   },
   {
     "path": "/faq",
     "title": "Ayuda",
-    "icon": <CircleQuestion {...IconStyles} />
+    "icon": "CircleQuestion"
   }
 ]
 

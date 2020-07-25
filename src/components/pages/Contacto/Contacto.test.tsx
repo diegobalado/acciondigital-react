@@ -6,4 +6,4 @@ test('renders Contacto page', () => {
   const { getByText } = render(<Contacto />);
   const page = getByText(/Contacto page/i);
   expect(page).toBeInTheDocument();
-})
+});
